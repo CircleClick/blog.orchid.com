@@ -7,6 +7,7 @@ date: 2020-4-2T16:46:36.651Z
 description: "As a dynamic marketplace, Orchid offers flexibility for users and bandwidth providers while incentivizing providers to price their services competitively"
 featuredpost: false
 featuredimage: /img/uploads/Orchid_BlogImage_BWCost.jpg
+featuredimage: /img/uploads/Orchid_BlogImage_BWCost.jpg
 tags:
   - VPN
   - Ethereum
